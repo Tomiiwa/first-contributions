@@ -6,6 +6,7 @@
 - [Settachai Prueksasuphachok](https://github.com/SettachaiPK)
 - [Ideal Re](https://github.com/idealre)
 - [Clenio Filho](https://github.com/fhclenio)
+- [Sanusi](https://github.com/Tomiiwa)
 - [Rahul Pundir](https://github.com/iamr9r)
 - [Tegar Subkhan Fauzi](https://github.com/tegarsubkhan236)
 - [Tushar verma](https://github.com/Tushar656)
